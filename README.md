@@ -6,4 +6,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/kanishkasen213/Learning/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/kanishkasen213/Learning/tree/master/1148-article-views-i) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/kanishkasen213/Learning/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
